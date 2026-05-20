@@ -1,0 +1,5 @@
+X=MsgBox("A bad error has happened. Do you want to fix it?",4+48,"Computer")  
+X=MsgBox("Falled to stop",0+16,"Computer") 
+X=MsgBox("Virus has been detected",0+16,"Windows security") 
+X=MsgBox("Deleting user data",0+16,"Virus") 
+X=MsgBox("Deleting System32",0+16,"Virus") 
